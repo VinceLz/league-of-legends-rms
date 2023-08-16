@@ -23,9 +23,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.hawolt</groupId>
+            <groupId>com.github.hawolt.league-client-api</groupId>
             <artifactId>VirtualClient</artifactId>
-            <version>1.0</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.java-websocket</groupId>
