@@ -1,0 +1,11 @@
+$ cat .gitignore
+#IDEA project files
+.idea/*
+#build files
+target/*
+#logs
+logs/*
+#local dev resources
+resources/*
+#completly ignore test directory
+**/test/**
